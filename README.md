@@ -2,7 +2,7 @@
 <p>I'm a passionate software developer with experience in <strong>Java, Go, React.js, Next.js, Bootstrap, HTML, CSS, C, and JavaScript</strong>. I focus on mastering <strong>core concepts</strong> over just syntax, and I'm always eager to upskill and take on new challenges.</p>
 <h2>Professional Experience:</h2>
 <ul>
-  <li><strong>Senior Analyst at Bunge</strong> (July 2024 – Present)</li>
+  <li><strong>Senior Analyst at Bunge</strong> (July 2024 – Aug 2025)</li>
   <li><strong>Analyst Trainee at Bunge</strong> (July 2023 – July 2024)</li>
   <li><strong>PHP Web Developer at SparxIT Solutions</strong> (Jan 2023 – May 2023)</li>
   <li><strong>Product Engineering Intern at Gojek Tech</strong> (July 2022 – Dec 2022)</li>
