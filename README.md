@@ -1,4 +1,9 @@
-<h1 align="center">Ahan Jaiswal | Software Developer & Tech Enthusiast</h1>
+<h1 align="center">Ahan Jaiswal | Software Engineer | Cloud Architect | AI Enthusiast</h1>
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maugus0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahanjaiswal12@gmail.com)
+</div>
+
 <p>I'm a passionate software developer with experience in <strong>Java, Go, React.js, Next.js, Bootstrap, HTML, CSS, C, and JavaScript</strong>. I focus on mastering <strong>core concepts</strong> over just syntax, and I'm always eager to upskill and take on new challenges.</p>
 <h2>Professional Experience:</h2>
 <ul>
@@ -18,16 +23,7 @@
 </ul>
 <p>If you're <strong>passionate about software development</strong> or want to <strong>collaborate on exciting projects</strong>, feel free to reach out!</p>
 
-<div align="center">
-  
-# 👋 Hi, I'm Ahan Jaiswal
 
-### Software Developer | Cloud Architect | AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 ---
 
