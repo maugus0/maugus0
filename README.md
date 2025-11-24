@@ -2,7 +2,7 @@
 <p>I'm a passionate software developer with experience in <strong>Java, Go, React.js, Next.js, Bootstrap, HTML, CSS, C, and JavaScript</strong>. I focus on mastering <strong>core concepts</strong> over just syntax, and I'm always eager to upskill and take on new challenges.</p>
 <h2>Professional Experience:</h2>
 <ul>
-  <li><strong>Continuous Improvement & Digital Operations at SATS Ltd.</strong> (Nov 2025 – Present)</li>
+  <li><strong>Continuous Improvement & Digital Solutions at SATS Ltd.</strong> (Nov 2025 – Present)</li>
   <li><strong>Principal Architect at Ressy.ai</strong> (Aug 2025 – Present)</li>
   <li><strong>Senior Analyst at Bunge</strong> (July 2024 – Aug 2025)</li>
   <li><strong>Analyst Trainee at Bunge</strong> (July 2023 – July 2024)</li>
