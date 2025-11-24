@@ -1,8 +1,11 @@
 <h1 align="center">Ahan Jaiswal | Software Engineer | Cloud Architect | AI Enthusiast</h1>
 <div align="center">
+
+### 💡 "Mastering core concepts, building meaningful products, making a real difference"
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maugus0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahanjaiswal12@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 </div>
 
@@ -134,10 +137,4 @@ I'm always open to collaborating on exciting projects, discussing technology, or
 
 ---
 
-<div align="center">
-  
-### 💡 "Mastering core concepts, building meaningful products, making a real difference"
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-
-</div>
