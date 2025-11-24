@@ -8,8 +8,33 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahanjaiswal12@gmail.com)
 
 </div>
+---
 
-<p>I'm a passionate software developer with experience in <strong>Java, Go, React.js, Next.js, Bootstrap, HTML, CSS, C, and JavaScript</strong>. I focus on mastering <strong>core concepts</strong> over just syntax, and I'm always eager to upskill and take on new challenges.</p>
+## 🚀 About Me
+
+I'm a passionate **Software Developer with 3.5 years of experience** building impactful and scalable products. I specialize in cloud-native solutions and take a vendor-neutral approach across **AWS, GCP, and Azure**. My expertise spans the full software delivery lifecycle, from **Infrastructure as Code (IaC)** to **DevOps, QA, and Observability**.
+
+I believe in mastering **core concepts over syntax** and am deeply interested in **AI-assisted, cloud-native solutions** that empower people and organizations.
+
+- 🎓 Currently pursuing **Master of Technology in Software Engineering** at **National University of Singapore** (Aug 2025 - Aug 2026)
+- 🎯 Focus: Agentic AI, Artificial Intelligence, Cloud Architecture
+- 💡 Philosophy: Continuous learning, meaningful impact, and building products that make a difference
+
+---
+
+## 💼 Professional Experience
+
+```
+🔧 Continuous Improvement & Digital Solutions | SATS Ltd.          Nov 2025 - Present
+🏗️ Principal Architect | Ressy.ai                                 Aug 2025 - Present
+📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
+📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
+🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
+🚀 Product Engineering Intern | Gojek Tech                         Jul 2022 - Dec 2022
+```
+
+---
+
 <h2>Professional Experience:</h2>
 <ul>
   <li><strong>Continuous Improvement & Digital Solutions at SATS Ltd.</strong> (Nov 2025 – Present)</li>
@@ -30,32 +55,8 @@
 
 
 
----
 
-## 🚀 About Me
 
-I'm a passionate **Software Developer with 3.5 years of experience** building impactful and scalable products. I specialize in cloud-native solutions and take a vendor-neutral approach across **AWS, GCP, and Azure**. My expertise spans the full software delivery lifecycle, from **Infrastructure as Code (IaC)** to **DevOps, QA, and Observability**.
-
-I believe in mastering **core concepts over syntax** and am deeply interested in **AI-assisted, cloud-native solutions** that empower people and organizations.
-
-- 🎓 Currently pursuing **Master of Technology in Software Engineering** at **National University of Singapore** (Aug 2025 - Aug 2026)
-- 🎯 Focus: Agentic AI, Artificial Intelligence, Cloud Architecture
-- 💡 Philosophy: Continuous learning, meaningful impact, and building products that make a difference
-
----
-
-## 💼 Professional Experience
-
-```
-🔧 Continuous Improvement & Digital Solutions | SATS Ltd.          Nov 2025 - Present
-🏗️  Principal Architect | Ressy.ai                                 Aug 2025 - Present
-📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
-📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
-🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
-🚀 Product Engineering Intern | Gojek Tech                         Jul 2022 - Dec 2022
-```
-
----
 
 ## 🛠️ Tech Stack
 
