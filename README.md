@@ -9,7 +9,6 @@
 
 </div>
 ---
-
 ## 🚀 About Me
 
 I'm a passionate **Software Developer with 3.5 years of experience** building impactful and scalable products. I specialize in cloud-native solutions and take a vendor-neutral approach across **AWS, GCP, and Azure**. My expertise spans the full software delivery lifecycle, from **Infrastructure as Code (IaC)** to **DevOps, QA, and Observability**.
@@ -19,7 +18,27 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 - 🎓 Currently pursuing **Master of Technology in Software Engineering** at **National University of Singapore** (Aug 2025 - Aug 2026)
 - 🎯 Focus: Agentic AI, Artificial Intelligence, Cloud Architecture
 - 💡 Philosophy: Continuous learning, meaningful impact, and building products that make a difference
+---
 
+## 🎓 Education
+
+**Master of Technology - Software Engineering**  
+📍 National University of Singapore | Aug 2025 - Aug 2026  
+🎯 Focus: Artificial Intelligence, Agentic AI
+
+**Bachelor of Engineering - Computer Science**  
+📍 Chitkara University | 2019 - 2023  
+🏆 Grade: 9.85/10
+
+---
+## 🌟 What I Do
+
+✔️ Build **scalable & efficient applications**  
+✔️ Work across **backend & frontend** technologies  
+✔️ Design **cloud-native architectures** (AWS, GCP, Azure)  
+✔️ Implement **IaC, DevOps, and Observability** solutions  
+✔️ Write **clean, maintainable code**  
+✔️ Explore **AI-assisted development** and emerging tech
 ---
 
 ## 💼 Professional Experience
@@ -34,29 +53,6 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 ```
 
 ---
-
-<h2>Professional Experience:</h2>
-<ul>
-  <li><strong>Continuous Improvement & Digital Solutions at SATS Ltd.</strong> (Nov 2025 – Present)</li>
-  <li><strong>Principal Architect at Ressy.ai</strong> (Aug 2025 – Present)</li>
-  <li><strong>Senior Analyst at Bunge</strong> (July 2024 – Aug 2025)</li>
-  <li><strong>Analyst Trainee at Bunge</strong> (July 2023 – July 2024)</li>
-  <li><strong>PHP Web Developer at SparxIT Solutions</strong> (Jan 2023 – May 2023)</li>
-  <li><strong>Product Engineering Intern at Gojek Tech</strong> (July 2022 – Dec 2022)</li>
-</ul>
-<h2>What I Work On:</h2>
-<ul>
-  <li>✔ Build scalable & efficient applications</li>
-  <li>✔ Work with backend & frontend technologies</li>
-  <li>✔ Focus on writing clean, maintainable code</li>
-  <li>✔ Explore new tools & frameworks</li>
-</ul>
-<p>If you're <strong>passionate about software development</strong> or want to <strong>collaborate on exciting projects</strong>, feel free to reach out!</p>
-
-
-
-
-
 
 ## 🛠️ Tech Stack
 
@@ -88,33 +84,4 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
-
-## 🎓 Education
-
-**Master of Technology - Software Engineering**  
-📍 National University of Singapore | Aug 2025 - Aug 2026  
-🎯 Focus: Artificial Intelligence, Agentic AI
-
-**Bachelor of Engineering - Computer Science**  
-📍 Chitkara University | 2019 - 2023  
-🏆 Grade: 9.85/10
-
----
-
-## 🌟 What I Do
-
-✔️ Build **scalable & efficient applications**  
-✔️ Work across **backend & frontend** technologies  
-✔️ Design **cloud-native architectures** (AWS, GCP, Azure)  
-✔️ Implement **IaC, DevOps, and Observability** solutions  
-✔️ Write **clean, maintainable code**  
-✔️ Explore **AI-assisted development** and emerging tech
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-
+<p>If you're <strong>passionate about software development</strong> or want to <strong>collaborate on exciting projects</strong>, feel free to reach out!</p>
