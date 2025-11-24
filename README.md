@@ -13,11 +13,7 @@
 
 I'm a passionate **Software Developer with 3.5 years of experience** building impactful and scalable products. I specialize in cloud-native solutions and take a vendor-neutral approach across **AWS, GCP, and Azure**. My expertise spans the full software delivery lifecycle, from **Infrastructure as Code (IaC)** to **DevOps, QA, and Observability**.
 
-I believe in mastering **core concepts over syntax** and am deeply interested in **AI-assisted, cloud-native solutions** that empower people and organizations.
-
-- 🎓 Currently pursuing **Master of Technology in Software Engineering** at **National University of Singapore** (Aug 2025 - Aug 2026)
-- 🎯 Focus: Agentic AI, Artificial Intelligence, Cloud Architecture
-- 💡 Philosophy: Continuous learning, meaningful impact, and building products that make a difference
+I believe in mastering **core concepts over syntax** and am deeply interested in **AI-assisted, cloud-native solutions** that empower people and organizations. Philosophy: Continuous learning, meaningful impact, and passion for building products that make a difference.
 
 ## 💼 Professional Experience
 
