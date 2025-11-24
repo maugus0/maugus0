@@ -19,6 +19,17 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 - 🎯 Focus: Agentic AI, Artificial Intelligence, Cloud Architecture
 - 💡 Philosophy: Continuous learning, meaningful impact, and building products that make a difference
 
+## 💼 Professional Experience
+
+```
+🔧 Continuous Improvement & Digital Solutions | SATS Ltd.          Nov 2025 - Present
+🏗️ Principal Architect | Ressy.ai                                  Aug 2025 - Present
+📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
+📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
+🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
+🚀 Product Engineering Intern | Gojek Tech                         Jul 2022 - Dec 2022
+```
+
 ## 🎓 Education
 
 **Master of Technology - Software Engineering**  
@@ -37,17 +48,6 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 ✔️ Implement **IaC, DevOps, and Observability** solutions  
 ✔️ Write **clean, maintainable code**  
 ✔️ Explore **AI-assisted development** and emerging tech
-
-## 💼 Professional Experience
-
-```
-🔧 Continuous Improvement & Digital Solutions | SATS Ltd.          Nov 2025 - Present
-🏗️ Principal Architect | Ressy.ai                                 Aug 2025 - Present
-📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
-📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
-🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
-🚀 Product Engineering Intern | Gojek Tech                         Jul 2022 - Dec 2022
-```
 
 ## 🛠️ Tech Stack
 
