@@ -18,7 +18,6 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 - 🎓 Currently pursuing **Master of Technology in Software Engineering** at **National University of Singapore** (Aug 2025 - Aug 2026)
 - 🎯 Focus: Agentic AI, Artificial Intelligence, Cloud Architecture
 - 💡 Philosophy: Continuous learning, meaningful impact, and building products that make a difference
----
 
 ## 🎓 Education
 
@@ -30,7 +29,6 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 📍 Chitkara University | 2019 - 2023  
 🏆 Grade: 9.85/10
 
----
 ## 🌟 What I Do
 
 ✔️ Build **scalable & efficient applications**  
@@ -39,7 +37,6 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 ✔️ Implement **IaC, DevOps, and Observability** solutions  
 ✔️ Write **clean, maintainable code**  
 ✔️ Explore **AI-assisted development** and emerging tech
----
 
 ## 💼 Professional Experience
 
@@ -51,8 +48,6 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
 🚀 Product Engineering Intern | Gojek Tech                         Jul 2022 - Dec 2022
 ```
-
----
 
 ## 🛠️ Tech Stack
 
