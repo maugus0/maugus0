@@ -18,7 +18,7 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 ## 💼 Professional Experience
 
 ```
-🔧 Continuous Improvement & Digital Solutions | SATS Ltd.          Nov 2025 - Present
+🔧 Developer, AI & Digital Solutions (OE) | SATS Ltd.              Nov 2025 - Present
 🏗️ Principal Architect | Ressy.ai                                  Aug 2025 - Present
 📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
 📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
