@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer with 3.5 years of experience** building impactful and scalable products. I specialize in cloud-native solutions and take a vendor-neutral approach across **AWS, GCP, and Azure**. My expertise spans the full software delivery lifecycle, from **Infrastructure as Code (IaC)** to **DevOps, QA, and Observability**.
+I'm a passionate **Software Developer with 4 years of experience** building impactful and scalable products. I specialize in cloud-native solutions and take a vendor-neutral approach across **AWS, GCP, and Azure**. My expertise spans the full software delivery lifecycle, from **Infrastructure as Code (IaC)** to **DevOps, QA, and Observability**.
 
 I believe in mastering **core concepts over syntax** and am deeply interested in **AI-assisted, cloud-native solutions** that empower people and organizations. Philosophy: Continuous learning, meaningful impact, and passion for building products that make a difference.
 
