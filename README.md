@@ -23,7 +23,7 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
 📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
 🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
-🚀 Product Engineering Intern | Gojek Tech                         Jul 2022 - Dec 2022
+🚀 Product Engineering Intern | Gojek Tech                         May 2022 - Dec 2022
 ```
 
 ## 🎓 Education
