@@ -19,7 +19,7 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 
 ```
 🔧 AI Software Engineer (OE) | SATS Ltd.                           Nov 2025 - Present
-🏗️ Principal Architect | Ressy.ai                                  Aug 2025 - Present
+🏗️ Principal Architect | Ressy.ai                                  Aug 2025 - Nov 2025
 📊 Senior Analyst | Bunge                                          Jul 2024 - Aug 2025
 📈 Analyst Trainee | Bunge                                         Jul 2023 - Jul 2024
 🌐 PHP Web Developer | SparxIT Solutions                           Jan 2023 - May 2023
