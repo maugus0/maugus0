@@ -31,6 +31,7 @@ I believe in mastering **core concepts over syntax** and am deeply interested in
 **Master of Technology - Software Engineering**  
 📍 National University of Singapore | Aug 2025 - Aug 2026  
 🎯 Focus: Artificial Intelligence, Agentic AI
+🏆 CEO's Honour List (https://www.iss.nus.edu.sg/graduate-programmes/director's-honour-list)
 
 **Bachelor of Engineering - Computer Science**  
 📍 Chitkara University | 2019 - 2023  
